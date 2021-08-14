@@ -1,0 +1,1 @@
+This Project require Hardware Components we Can not run the project without connecting to them.
